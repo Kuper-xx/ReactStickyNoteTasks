@@ -1,0 +1,76 @@
+#textArea{
+    width: 18em; 
+    height: 240px;
+    min-width: 18em;
+    min-height: 240px;
+    max-width: 18em;
+    max-height: 240px;
+    background: #fff799;
+    margin: auto;
+    display: block;
+    resize: none;
+    border: 1px solid #fff799;
+    
+}
+.card-body{
+    background: #fff799;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-color: #fff467;
+}
+#cartaT{
+    border: none;
+    max-width: 20rem;
+    margin: auto;
+    display: block;
+}
+#btn{
+    margin: auto;
+    display: block;
+}
+#txtIp{
+    width: 18em;
+    margin: auto;
+    display: block;
+    background: #444444;
+    border: 1px solid #444444;
+    outline: none;
+    color: white;
+}
+
+
+#txtIpTASK{
+    width: 16em;
+    margin: left;
+    display: block;
+    background: #444444;
+    border: 1px solid #444444;
+    outline: none;
+    color: white;
+}
+#textAreaTASK{
+    width: 18em; 
+    height: 240px;
+    min-width: 18em;
+    min-height: 240px;
+    max-width: 18em;
+    max-height: 240px;
+    background: #fff799;
+    margin: auto;
+    resize: none;
+    border: 1px solid #fff799;
+    
+}
+.card-bodyTASK{
+    background: #fff799;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    border-color: #fff467;
+}
+#cartaTASK{
+    border: none;
+    max-width: 20rem;
+    margin: auto;
+    display: inline-block;
+    margin-left: 1em;
+}
